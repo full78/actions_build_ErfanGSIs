@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2d/v3/mqFKBVy7SKKKGw-OPBsvDw/full/update_full_base.zip
-  ROM_NAME: Generic
+  ROM_URL: https://59-47-225-42.pd1.cjjd19.com:30443/download-cdn.cjjd19.com/123-941/caebdd4c/1815289513-0/caebdd4cb58703b991e9828a878617ad/c-m71?v=5&t=1742655857&s=1742655857cbb3d159a4d757643046b2cdc2a2e5fd&r=TW3AOW&bzc=1&bzs=1815289513&filename=nabu_XiaomiPad5_Flyme10.0.0.3APad_13.0.zip&x-mf-biz-cid=37206098-5d8c-4bf9-8f5f-be23478d9bd5-3dab77&auto_redirect=0&cache_type=1&xmfcid=1ded7c48-2266-48eb-92ab-cd9faab1cb24-1-9eed82220
+  ROM_NAME: flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
