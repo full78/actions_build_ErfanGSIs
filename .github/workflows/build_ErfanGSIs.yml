@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2d/v3/mqFKBVy7SKKKGw-OPBsvDw/full/update_full_base.zip
-  ROM_NAME: Generic
+  ROM_URL: http://watermelon0.back1.idcfengye.com/awaken.zip
+  ROM_NAME: Awaken os
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
