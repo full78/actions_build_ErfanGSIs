@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://watermelon0.back1.idcfengye.com/awaken.zip
-  ROM_NAME: Awaken os
+  ROM_URL: https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS1.0.3.0.TKXCNXM/nabu_images_OS1.0.3.0.TKXCNXM_20240516.0000.00_13.0_cn_ff15a7adfc.tgz
+  ROM_NAME: hyperos
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
